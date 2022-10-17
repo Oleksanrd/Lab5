@@ -1,0 +1,36 @@
+h1 {
+   text-align: center;
+   font-size: 30px;
+}
+
+#link {
+   border: 2px solid #333;
+}
+
+.link__li {
+   list-style: none;
+   margin: 0 20px;
+   font-size: 25px;
+}
+
+.link__li:hover {
+   color: brown;
+}
+
+.link__li:active {
+   color: chartreuse;
+   text-decoration:underline;
+}
+.ul {
+   display: flex;
+   justify-content: space-between;
+   padding-left: 0;
+}
+
+.a {
+   text-align: center;
+   font-size: 120px;
+   font-weight: 300;
+   margin-top: 25%;
+}
+
